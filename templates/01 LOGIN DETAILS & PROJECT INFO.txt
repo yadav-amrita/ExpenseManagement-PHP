@@ -1,0 +1,9 @@
+**Expense Management Project!**
+
+**Database Name: expenseman**
+
+**Developed by Amrita, Anuradha Paswan, Muskan Garg**
+
+**Tested with PHP v5**
+
+
